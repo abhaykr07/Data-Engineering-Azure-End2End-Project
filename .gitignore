@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Databricks / local tooling
+.databricks/
+*.dbc
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+*.pem
+*.key
+*.pfx
+*.p12
+secrets.json
+local.settings.json
+.env.*
+
+# Logs / temporary files
+*.log
+tmp/
+temp/
