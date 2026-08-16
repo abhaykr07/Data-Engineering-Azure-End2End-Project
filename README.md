@@ -94,7 +94,7 @@ Data-Engineering-Azure-End2End-Project/
 │   └── Data Mart Star Schema drawing.jpg
 ├── scripts/
 │   ├── bronze_layer/
-│   │   └── filepath.json
+│   │   └── ingestion_config
 │   ├── silver_layer/
 │   │   └── silver.py
 │   └── gold_layer/
