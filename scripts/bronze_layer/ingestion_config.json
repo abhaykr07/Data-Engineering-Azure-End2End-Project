@@ -1,0 +1,32 @@
+[
+  {
+    "rel_url": "abhaykr07/Data-Engineering-Azure-End2End-Project/refs/heads/main/datasets/source_crm/cust_info.csv",
+    "sink_folder": "source_crm",
+    "sink_file": "cust_info.parquet"
+  },
+  {
+    "rel_url": "abhaykr07/Data-Engineering-Azure-End2End-Project/refs/heads/main/datasets/source_crm/prd_info.csv",
+    "sink_folder": "source_crm",
+    "sink_file": "prd_info.parquet"
+  },
+  {
+    "rel_url": "abhaykr07/Data-Engineering-Azure-End2End-Project/refs/heads/main/datasets/source_crm/sales_details.csv",
+    "sink_folder": "source_crm",
+    "sink_file": "sales_details.parquet"
+  },
+  {
+    "rel_url": "abhaykr07/Data-Engineering-Azure-End2End-Project/refs/heads/main/datasets/source_erp/CUST_AZ12.csv",
+    "sink_folder": "source_erp",
+    "sink_file": "CUST_AZ12.parquet"
+  },
+  {
+    "rel_url": "abhaykr07/Data-Engineering-Azure-End2End-Project/refs/heads/main/datasets/source_erp/LOC_A101.csv",
+    "sink_folder": "source_erp",
+    "sink_file": "LOC_A101.parquet"
+  },
+  {
+    "rel_url": "abhaykr07/Data-Engineering-Azure-End2End-Project/refs/heads/main/datasets/source_erp/PX_CAT_G1V2.csv",
+    "sink_folder": "source_erp",
+    "sink_file": "PX_CAT_G1V2.parquet"
+  }
+]
